@@ -16,3 +16,4 @@ pypiREADME.md
 *.avi
 *.log
 osr2mp4/*.log
+/ecs

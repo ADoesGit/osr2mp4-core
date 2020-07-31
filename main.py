@@ -9,8 +9,8 @@ def main():
 
 	# gameplaydata = read("osr2mp4/settings.json")
 
-	osr2mp4 = Osr2mp4(filedata="/Users/yuitora./PycharmProjects/osr2mp4-core/osr2mp4/config.json",
-	                  filesettings="/Users/yuitora./PycharmProjects/osr2mp4-core/osr2mp4/settings.json", filepp="osr2mp4/ppsettings.json",
+	osr2mp4 = Osr2mp4(filedata="/mnt/d/Documents/GitHub/osr2mp4-core/osr2mp4/config.json",
+	                  filesettings="/mnt/d/Documents/GitHub/osr2mp4-core/osr2mp4/settings.json", filepp="/mnt/d/Documents/GitHub/osr2mp4-core/osr2mp4/ppsettings.json",
 	                  logtofile=True)
 
 	osr2mp4.startall()

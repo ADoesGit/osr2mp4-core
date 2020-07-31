@@ -1,0 +1,14 @@
+spawnspeed = 10
+speed = 4.2
+opacity = 1
+smin = 0
+smax = 0.4
+cvadd = 0.06
+cvrem = -0.06
+hex = B11071
+pngpath = PNG NOT SET
+backgroundpath = BACKGROUND NOT SET
+lang = EN
+bghex = ffffff
+rotation = up
+bgtoggle = False

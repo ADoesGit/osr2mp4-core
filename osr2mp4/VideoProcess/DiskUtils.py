@@ -31,8 +31,8 @@ def mix_video_audio(settings):
 
 
 def convert_tomp4(settings, output="output.mp4"):
-	os.system('"{}" -i "{}" -codec copy {} -y'.format(settings.ffmpeg, settings.output, output))
-
+	#os.system('"{}" -i "{}" -codec copy {} -y'.format(settings.ffmpeg, settings.output, output))
+	pass
 
 def setup_dir(settings):
 	if not os.path.isdir(settings.temp):
